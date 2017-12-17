@@ -1,0 +1,11 @@
+C:\Users\programming\Documents\Visual Studio 2017\Projects\tst emil\bin\Debug\tst emil.exe.config
+C:\Users\programming\Documents\Visual Studio 2017\Projects\tst emil\bin\Debug\tst emil.exe
+C:\Users\programming\Documents\Visual Studio 2017\Projects\tst emil\bin\Debug\tst emil.pdb
+C:\Users\programming\Documents\Visual Studio 2017\Projects\tst emil\bin\Debug\tst emil.xml
+C:\Users\programming\Documents\Visual Studio 2017\Projects\tst emil\obj\Debug\tst emil.vbprojResolveAssemblyReference.cache
+C:\Users\programming\Documents\Visual Studio 2017\Projects\tst emil\obj\Debug\tst_emil.Form1.resources
+C:\Users\programming\Documents\Visual Studio 2017\Projects\tst emil\obj\Debug\tst_emil.Resources.resources
+C:\Users\programming\Documents\Visual Studio 2017\Projects\tst emil\obj\Debug\tst emil.vbproj.GenerateResource.Cache
+C:\Users\programming\Documents\Visual Studio 2017\Projects\tst emil\obj\Debug\tst emil.exe
+C:\Users\programming\Documents\Visual Studio 2017\Projects\tst emil\obj\Debug\tst emil.xml
+C:\Users\programming\Documents\Visual Studio 2017\Projects\tst emil\obj\Debug\tst emil.pdb
