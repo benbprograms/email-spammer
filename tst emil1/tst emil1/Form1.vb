@@ -8,13 +8,13 @@ Public Class Form1
         Dim ToAddr, FromAddr As String
         'smtp setup
         smtp.UseDefaultCredentials = False
-        smtp.Credentials = New Net.NetworkCredential("covers.ben.blakemore@gmail.com", "Bensmonkey76!!")
+        smtp.Credentials = New Net.NetworkCredential("example@gmail.com", "password") ' must be a gmail account
         smtp.Port = 587
         smtp.EnableSsl = True
         smtp.Host = "smtp.gmail.com"
         'mail setup
-        ToAddr = "aliwally1@ntlworld.com" ' who the email is to '
-        FromAddr = "ben.blakemore@aol.com" ' who the email i'
+        ToAddr = "example@example.com" ' who the email is to '
+        FromAddr = "example@example.com" ' who the email i'
         mail.From = New MailAddress(FromAddr)
         mail.To.Add(ToAddr)
         mail.Subject = "email sending..."
